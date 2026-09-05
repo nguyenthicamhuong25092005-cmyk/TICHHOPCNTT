@@ -13,11 +13,11 @@
 + Các quy tắc tính đạo hàm
 + Định nghĩa GTLN, GTNN
 + Phương pháp tìm GTLN, GTNN
-+ Ý nghĩa thực tế của đạo hàm
 ### 💡 Chương 2: Các ứng dụng thực tế của đạo hàm
-+_ Bài toán cực trị và tối ưu hóa:_ Tìm giá trị lớn nhất, nhỏ nhất hoặc phương án tối ưu của một đại lượng trong thực tế.
++ _ Bài toán cực trị và tối ưu hóa:_ Tìm giá trị lớn nhất, nhỏ nhất hoặc phương án tối ưu của một đại lượng trong thực tế.
 + _Bài toán vận tốc, gia tốc:_ Sử dụng đạo hàm để xác định vận tốc và gia tốc của vật trong chuyển động.
 + _Bài toán tăng trưởng và tốc độ thay đổi:_ Xác định tốc độ tăng hoặc giảm của một đại lượng theo thời gian.
 + _Bài toán kinh tế:_ Ứng dụng đạo hàm để phân tích chi phí, doanh thu, lợi nhuận và tìm phương án tối ưu.
 + _Các bài toán thực tế khác:_ Ứng dụng đạo hàm trong hình học, vật lý, môi trường và các lĩnh vực đời sống.
-  
+### 💡 Chương 3: Bài tập và ví dụ minh hoạ về ứng dụng của đạo hàm 
+## 🌸Kế hoạch và tiến độ thực hiện: 
