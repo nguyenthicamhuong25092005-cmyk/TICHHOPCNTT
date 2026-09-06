@@ -21,3 +21,14 @@
 + _Các bài toán thực tế khác:_ Ứng dụng đạo hàm trong hình học, vật lý, môi trường và các lĩnh vực đời sống.
 ### 💡 Chương 3: Bài tập và ví dụ minh hoạ về ứng dụng của đạo hàm 
 ## 🌸Kế hoạch và tiến độ thực hiện: 
++ **_Tuần 1:_**
+  - Thu thập tài liệu tham khảo, sách giáo khoa, giáo trình tài liệu nghiên cứu
+  - Hoàn thành phần mở đầu và cơ sở lý thuyết về đạo hàm
++ **_Tuần 2:_**
+  - Hoàn thành chương 2 các ứng dụng thực tế của đạo hàm
+  - Giải các bài toán và ví dụ minh hoạ về ứng dụng đạo hàm của chương 3
+  - Định dạng mục lục và tài liệu tham khảo, kiểm tra lại dự án
+## 📚 Tài liệu tham khảo ( Dự kiến) 
+1. SGK Toán 11 tập 2
+2. Các ứng dụng thực tế đạo hàm _ Nguyễn Tiến đạt
+3. Toán thực tế ứng dụng đạo hàm và khảo sát hàm số - Đặng Việt Đông
