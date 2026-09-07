@@ -13,6 +13,8 @@
 + Các quy tắc tính đạo hàm
 + Định nghĩa GTLN, GTNN
 + Phương pháp tìm GTLN, GTNN
++ Ý nghĩa vật lý của đạo hàm
++ Ý nghĩa hình học của đạo hàm
 ### 💡 Chương 2: Các ứng dụng thực tế của đạo hàm
 + _Bài toán cực trị và tối ưu hóa:_ Tìm giá trị lớn nhất, nhỏ nhất hoặc phương án tối ưu của một đại lượng trong thực tế.
 + _Bài toán vận tốc, gia tốc:_ Sử dụng đạo hàm để xác định vận tốc và gia tốc của vật trong chuyển động.
