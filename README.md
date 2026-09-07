@@ -20,7 +20,7 @@
 + _Bài toán tăng trưởng và tốc độ thay đổi:_ Xác định tốc độ tăng hoặc giảm của một đại lượng theo thời gian.
 + _Bài toán kinh tế:_ Ứng dụng đạo hàm để phân tích chi phí, doanh thu, lợi nhuận và tìm phương án tối ưu.
 + _Các bài toán thực tế khác:_ Ứng dụng đạo hàm trong hình học, vật lý, môi trường và các lĩnh vực đời sống.
-### 💡 Chương 3: Bài tập và ví dụ minh hoạ về ứng dụng của đạo hàm 
+### 💡 Chương 3: Bài tập luyện tập 
 ## 🌸Kế hoạch và tiến độ thực hiện: 
 + **_Tuần 1:_**
   - Thu thập tài liệu tham khảo, sách giáo khoa, giáo trình tài liệu nghiên cứu
